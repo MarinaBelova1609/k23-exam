@@ -891,7 +891,6 @@ header .container {
   margin-left: 0px;
   padding-left: 0;
   list-style: none;
-  display: -webkit-inline-flex;
   display: inline-flex;
   flex-direction: row;
   justify-content: space-between;
@@ -1238,7 +1237,6 @@ header .container {
 
 .table-tasks-cell:nth-child(2n) .table-shadow-row {
   content: '';
-  background: ;
   position: absolute;
   top: 0px;
   right: -47px;
@@ -1251,7 +1249,6 @@ header .container {
 .table-tasks-cell:nth-child(2n) .table-shadow-row:after {
   background: red;
   content: '';
-  background: ;
   position: absolute;
   top: 0px;
   right: -47px;
